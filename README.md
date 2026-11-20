@@ -1,5 +1,8 @@
 # UI-UX-Experiment1
 
+## NAME : MADHAN.s
+## REG NO : 212223045004
+
 ## Aim: 
 To understand the fundamentals of UI and UX design, differentiate between them using real-world case studies, study the relationship between UI and UX, and explore various UI/UX design tools.
 
