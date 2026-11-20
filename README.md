@@ -1,6 +1,6 @@
 # UI-UX-Experiment1
 
-## NAME : MADHAN.s
+## NAME : MADHAN.S
 ## REG NO : 212223045004
 
 ## Aim: 
